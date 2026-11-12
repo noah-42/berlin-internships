@@ -51,7 +51,7 @@ Optional: [CSV for spreadsheets](data/2-jobs.csv) · [JSON for coding agents](da
 | <img src="assets/21-bayer.png" width="56" height="56" alt="Bayer logo"> | [Bayer](https://www.bayer.com/) | [Agentic AI Internship (all genders)](https://talent.bayer.com/careers/job/562949978699007) | Oct-06 | Unclear | Not yet verified |
 | <img src="assets/6-liqid.png" width="56" height="56" alt="LIQID logo"> | [LIQID](https://www.liqid.de/) | [Product Builder Intern: Growth](https://www.joblyst.tech/jobs/post/4816fcd0-819f-4473-95ad-9568e0c1cb31)<br><sub>Availability: verify</sub> | Oct-06 | Unclear | Not yet verified |
 | <img src="assets/11-generalmind.png" width="56" height="56" alt="GeneralMind logo"> | [GeneralMind](https://www.generalmind.com/) | [AI Engineering Intern](https://jobdropberlin.com/jobs/generalmind-ai-engineering-intern)<br><sub>Availability: verify</sub> | Sep-14 | Unclear | Not yet verified |
-| <img src="assets/22-perplexity.png" width="56" height="56" alt="Perplexity logo"> | Perplexity | [Internship: Machine Learning Research Engineer](https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c) | Sep-02 | Unclear | Not yet verified |
+| <img src="assets/22-perplexity.png" width="56" height="56" alt="Perplexity logo"> | [Perplexity](https://www.perplexity.ai/) | [Internship: Machine Learning Research Engineer](https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c) | Sep-02 | Unclear | Not yet verified |
 | <img src="assets/18-autarc.png" width="56" height="56" alt="autarc logo"> | [autarc](https://www.autarc.energy/global) | [GTM Engineering, AI & Automation Internship (all genders)](https://autarcenergy.jobs.personio.de/job/2777192) | Sep-01 | 🇬🇧 | Not yet verified |
 
 ### Posting date not provided
