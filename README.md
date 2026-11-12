@@ -16,13 +16,13 @@ Optional: [CSV for spreadsheets](data/2-jobs.csv) · [JSON for coding agents](da
 
 ### Posted in 2026
 
-| Logo | Company | Role | Posted | Language | Skills |
+| Logo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Company | Role | Posted | Language | Skills |
 | :---: | :--- | :--- | :--- | :---: | :--- |
 | <img src="assets/26-miles-mobility.png" width="56" height="56" alt="MILES Mobility logo"> | [MILES Mobility](https://www.miles-mobility.com/en-de) | [QA Engineering Intern (w/m/x/d)](https://miles-mobility.jobs.personio.de/job/2838625)<br><sub>6 months; €2,500/month; bootcamp/career-change accepted</sub> | Oct-12 | 🇬🇧 | Java / JavaScript / TypeScript; HTTP, JSON |
 
 ### Posting date not provided
 
-| Logo | Company | Role | Posted | Language | Skills |
+| Logo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Company | Role | Posted | Language | Skills |
 | :---: | :--- | :--- | :--- | :---: | :--- |
 | <img src="assets/24-knowunity.svg" width="56" height="56" alt="Knowunity logo"> | [Knowunity](https://knowunity.de/) | [Engineering Intern](https://jobs.ashbyhq.com/knowunity/bee89901-5cda-4fd0-bb51-b2fd1e329877/application)<br><sub>Current/recent related degree; 5 office days/week</sub> | Unknown | 🇬🇧 | Backend + frontend programming |
 | <img src="assets/27-qontext.svg" width="56" height="56" alt="Qontext logo"> | [Qontext](https://qontext.ai/) | [Software Engineering Intern](https://jobs.ashbyhq.com/qontext/db01a1b4-896a-4d06-a756-ec0b3c9278ee/application)<br><sub>3-6 months; on-site</sub> | Unknown | Unclear | Work: TypeScript / Python; testing |
@@ -32,7 +32,7 @@ Optional: [CSV for spreadsheets](data/2-jobs.csv) · [JSON for coding agents](da
 
 ### Posted in 2026
 
-| Logo | Company | Role | Posted | Language | Skills |
+| Logo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Company | Role | Posted | Language | Skills |
 | :---: | :--- | :--- | :--- | :---: | :--- |
 | <img src="assets/8-enpal.png" width="56" height="56" alt="Enpal logo"> | [Enpal](https://www.corporate.enpal.com/) | [Praktikum AI & Automation: Virtual Power Plant](https://jobdropberlin.com/jobs/enpal-praktikum-ai-and-automation-virtual-power-plant) | Nov-12 | 🇩🇪 | Not yet verified |
 | <img src="assets/15-inca.png" width="56" height="56" alt="Inca logo"> | [Inca](https://get-inca.com/en/careers) | [AI Builder Intern](https://jobdropberlin.com/jobs/inca-ai-builder-intern) | Nov-10 | 🇩🇪 | Not yet verified |
@@ -56,7 +56,7 @@ Optional: [CSV for spreadsheets](data/2-jobs.csv) · [JSON for coding agents](da
 
 ### Posting date not provided
 
-| Logo | Company | Role | Posted | Language | Skills |
+| Logo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Company | Role | Posted | Language | Skills |
 | :---: | :--- | :--- | :--- | :---: | :--- |
 | <img src="assets/23-tesla.png" width="43" height="56" alt="Tesla - Gigafactory Berlin-Brandenburg logo"> | Tesla - Gigafactory Berlin-Brandenburg | [Machine Learning Intern, Generative AI](https://www.tesla.com/careers/search/job/287334)<br><sub>Availability: verify</sub><br><sub>Grünheide, near Berlin</sub> | Unknown | Unclear | Not yet verified |
 | <img src="assets/20-ama.png" width="56" height="56" alt="ama logo"> | [ama](https://www.heyama.ai/careers) | [Product Intern (Applied AI)](https://www.heyama.ai/careers/product-intern-(applied-ai)) | Unknown | 🇬🇧 | Not yet verified |
