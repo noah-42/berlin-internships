@@ -7,9 +7,9 @@ Public internship lists for Berlin and clearly marked nearby roles.
 | Role type | Listings |
 | :--- | ---: |
 | [Software Engineering](software-engineering.md) | 14 |
-| [AI Builder and related roles](ai-builder.md) | 16 |
+| [AI Builder and related roles](ai-builder.md) | 17 |
 
-30 current-window listings; 47 retained in the full archive. API coverage expansion is in progress; this is not a complete Jobscout export. Updated Nov 12, 2026.
+31 current-window listings; 47 retained in the full archive. API coverage expansion is in progress; this is not a complete Jobscout export. Updated Nov 12, 2026.
 
 ## Downloads
 
@@ -36,4 +36,4 @@ Public job information only. No applicant profiles or private application notes 
 
 Only confirmed posting dates from 2026-05-12 onward appear in the lists and current CSV/JSON exports. This is a rolling six-calendar-month window. Older and unknown dates are excluded from the visible lists; [full source archive](archive-all-records.json) preserves every record. No source database records changed.
 
-Current visible page counts: software-engineering.md: 14, ai-builder.md: 16.
+Current visible page counts: software-engineering.md: 14, ai-builder.md: 17.
