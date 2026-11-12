@@ -23,7 +23,33 @@
       "jobscout_id": 3389900,
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 19,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/8-enpal.png",
+      "legacy_company_name": "Enpal"
+    },
+    {
+      "role": "AI Builder Intern",
+      "company": "Inca",
+      "posted": "2026-11-10",
+      "language": "German required",
+      "pay": "Not stated",
+      "job_url": "https://jobdropberlin.com/jobs/inca-ai-builder-intern",
+      "availability": "API listed",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T14:56:00+01:00",
+      "location": "Berlin, BE, DE",
+      "eligibility": "",
+      "company_url": "",
+      "skills": "API requirements review pending",
+      "skills_checked_at": "2026-11-12T14:56:00+01:00",
+      "skills_source_url": "https://join.com/companies/get-incacom/16912600-ai-builder-intern-m-f-d",
+      "posting_date_note": "Employer JOIN schema datePosted is Jan 13; prior aggregator Nov 10 was not retained as the posting date.",
+      "jobscout_id": 3318810,
+      "api_reconciliation_status": "API mapped; requirements review pending",
+      "company_id": 40246,
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/15-inca.png",
+      "legacy_company_name": "Inca"
     },
     {
       "role": "Internship",
@@ -44,26 +70,9 @@
       "jobscout_id": 3142104,
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 633,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
-    },
-    {
-      "role": "Build Your Own Internship (m/f/d, min 6 months)",
-      "company": "Langdock",
-      "posted": null,
-      "language": "Unclear",
-      "pay": "Not stated",
-      "job_url": "https://jobs.ashbyhq.com/langdock/6e9e2672-851a-40e9-9c4e-0fb6cf351474",
-      "availability": "Listed at last check",
-      "category": "AI Builder",
-      "checked_at": "2026-11-12T14:56:00+01:00",
-      "location": "API reconciliation pending",
-      "eligibility": "",
-      "company_url": "",
-      "skills": "API reconciliation pending",
-      "skills_checked_at": "2026-11-12T14:56:00+01:00",
-      "skills_source_url": "https://jobs.ashbyhq.com/langdock/6e9e2672-851a-40e9-9c4e-0fb6cf351474",
-      "api_reconciliation_status": "API reconciliation pending",
-      "field_source": "Legacy row retained, not API verified"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/13-augustus.png",
+      "legacy_company_name": "Augustus"
     },
     {
       "role": "Intern AI Adoption & Product Marketing",
@@ -84,7 +93,9 @@
       "jobscout_id": 2992872,
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 33,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/17-superchat.png",
+      "legacy_company_name": "Superchat"
     },
     {
       "role": "Internship Founders Associate to the Chief of Staff",
@@ -105,7 +116,9 @@
       "jobscout_id": 3112293,
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 774,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/8-image-4dd07df6.jpg",
+      "legacy_company_name": "Traide AI"
     },
     {
       "role": "AI Agent Builder (Claude/OpenAI) - Intern",
@@ -126,7 +139,9 @@
       "jobscout_id": 2941275,
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 1683,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/14-heidi-systems.png",
+      "legacy_company_name": "Heidi Systems"
     },
     {
       "role": "Process Automation Engineer - Internship (f/m/d)",
@@ -147,7 +162,9 @@
       "jobscout_id": 2876189,
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 19,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/9-enpal---metrify.png",
+      "legacy_company_name": "Enpal / Metrify"
     },
     {
       "role": "Software Dev Engineer internship - Embedded Development (m/w/d)",
@@ -179,7 +196,9 @@
       "company_url_provenance": "User supplied canonical employer domain on Nov 12, 2026",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 2140368,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/1-amazon.com.ico",
+      "legacy_company_name": "Amazon Europe Core"
     },
     {
       "role": "Software Dev Engineer Intern (m/w/d)",
@@ -211,7 +230,9 @@
       "company_url_provenance": "User supplied canonical employer domain on Nov 12, 2026",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 2140368,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/1-amazon.com.ico",
+      "legacy_company_name": "Amazon Europe Core"
     },
     {
       "role": "Pflichtpraktikum Backend Softwareentwicklung & KI (m/w/d) - Python, APIs & MedTech",
@@ -249,7 +270,9 @@
       "language_note": "Description explicitly says good German OR English, despite API german_required true.",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 72020,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/2-think3ddd.de.png",
+      "legacy_company_name": "Think3DDD"
     },
     {
       "role": "Praktikum Anwendungsentwicklung (w/m/d)",
@@ -286,27 +309,9 @@
       "company_url_provenance": "Verified official employer site Nov 12, 2026",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 114525,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
-    },
-    {
-      "role": "Internship: AI/ML Engineering (m/f/x)",
-      "company": "Scalable Capital",
-      "posted": null,
-      "language": "Unclear",
-      "pay": "Not stated",
-      "job_url": "https://jobs.smartrecruiters.com/scalablegmbh/744000156493644",
-      "availability": "Listed at last check",
-      "category": "AI Builder",
-      "checked_at": "2026-11-12T14:56:00+01:00",
-      "location": "API reconciliation pending",
-      "eligibility": "",
-      "company_url": "",
-      "skills": "API reconciliation pending",
-      "skills_checked_at": "2026-11-12T14:56:00+01:00",
-      "skills_source_url": "https://jobs.smartrecruiters.com/scalablegmbh/744000156493644",
-      "posting_date_note": "Employer posting metadata Oct 20 supersedes prior aggregator Oct 21.",
-      "api_reconciliation_status": "API reconciliation pending",
-      "field_source": "Legacy row retained, not API verified"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/3-swoofle.de.webp",
+      "legacy_company_name": "SWOOFLE"
     },
     {
       "role": "Praktikum AI Software Engineer im eCommerce (m/w/d)",
@@ -340,7 +345,9 @@
       "company_url_provenance": "Official employer page https://epicbrands.de/ verified Nov 12, 2026; brand legal entity confirmed at https://klamer-home.com/pages/impressum",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 224789,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/4-image-e29ab19a.jpg",
+      "legacy_company_name": "Epic Brands"
     },
     {
       "role": "Praktikum / Werkstudent (m/w/d) im AI-SAAS Vertrieb",
@@ -361,7 +368,9 @@
       "jobscout_id": 1080988,
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 2523,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/7-image-60be3f30.jpg",
+      "legacy_company_name": "autarc"
     },
     {
       "role": "Value Delivery Intern - Automations",
@@ -391,7 +400,9 @@
       "logo_status": "Identity-verified logo research pending",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 1458,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/11-generalmind.png",
+      "legacy_company_name": "GeneralMind"
     },
     {
       "role": "Machine Learning Science Intern",
@@ -412,7 +423,9 @@
       "jobscout_id": 673831,
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 133291,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/10-distil-labs.png",
+      "legacy_company_name": "distil labs"
     },
     {
       "role": "Software Engineer Internship for HPI Students",
@@ -434,45 +447,9 @@
       "posting_date_source_url": "https://api.noah42.com/jobscout/v1/jobs/990034",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 989,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
-    },
-    {
-      "role": "Internship AI & Automation: Energy (m/f/d)",
-      "company": "1KOMMA5 Grad",
-      "posted": null,
-      "language": "Unclear",
-      "pay": "Not stated",
-      "job_url": "https://1komma5grad.jobs.personio.de/job/2800670?language=de",
-      "availability": "Listed at last check",
-      "category": "AI Builder",
-      "checked_at": "2026-11-12T14:56:00+01:00",
-      "location": "API reconciliation pending",
-      "eligibility": "",
-      "company_url": "",
-      "skills": "API reconciliation pending",
-      "skills_checked_at": "2026-11-12T14:56:00+01:00",
-      "skills_source_url": "https://1komma5grad.jobs.personio.de/job/2800670?language=de",
-      "api_reconciliation_status": "API reconciliation pending",
-      "field_source": "Legacy row retained, not API verified"
-    },
-    {
-      "role": "Business Automation & AI Intern / Working Student (f/m/d)",
-      "company": "LIQID",
-      "posted": null,
-      "language": "Unclear",
-      "pay": "Not stated",
-      "job_url": "https://jobs.ashbyhq.com/liqid-lam/1c1f88e0-2d0c-47df-9967-b121bc0701ac?embed=js",
-      "availability": "Listed at last check",
-      "category": "AI Builder",
-      "checked_at": "2026-11-12T14:56:00+01:00",
-      "location": "API reconciliation pending",
-      "eligibility": "",
-      "company_url": "",
-      "skills": "API reconciliation pending",
-      "skills_checked_at": "2026-11-12T14:56:00+01:00",
-      "skills_source_url": "https://jobs.ashbyhq.com/liqid-lam/1c1f88e0-2d0c-47df-9967-b121bc0701ac?embed=js",
-      "api_reconciliation_status": "API reconciliation pending",
-      "field_source": "Legacy row retained, not API verified"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/1-taktile.png",
+      "legacy_company_name": "Taktile"
     },
     {
       "role": "QA Engineering Intern (w/m/x/d)",
@@ -492,26 +469,9 @@
       "jobscout_id": 874623,
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 2709,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
-    },
-    {
-      "role": "Forward Deployed Engineer: AI Inference (Intern)",
-      "company": "Lyceum",
-      "posted": null,
-      "language": "Unclear",
-      "pay": "Not stated",
-      "job_url": "https://jobs.ashbyhq.com/Lyceum/7483d9e7-f14f-4315-81a9-dc560419d749",
-      "availability": "Listed at last check",
-      "category": "AI Builder",
-      "checked_at": "2026-11-12T14:56:00+01:00",
-      "location": "API reconciliation pending",
-      "eligibility": "",
-      "company_url": "",
-      "skills": "API reconciliation pending",
-      "skills_checked_at": "2026-11-12T14:56:00+01:00",
-      "skills_source_url": "https://jobs.ashbyhq.com/Lyceum/7483d9e7-f14f-4315-81a9-dc560419d749",
-      "api_reconciliation_status": "API reconciliation pending",
-      "field_source": "Legacy row retained, not API verified"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/26-miles-mobility.png",
+      "legacy_company_name": "MILES Mobility"
     },
     {
       "role": "Software Engineer Intern",
@@ -534,7 +494,9 @@
       "posting_date_source": "Jobscout date_posted; source ashby",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 989,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/1-taktile.png",
+      "legacy_company_name": "Taktile"
     },
     {
       "role": "Agentic AI Internship (All Genders)",
@@ -555,7 +517,9 @@
       "jobscout_id": 616136,
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 217,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/21-bayer.png",
+      "legacy_company_name": "Bayer"
     },
     {
       "role": "Product Builder Intern - Growth",
@@ -576,7 +540,9 @@
       "jobscout_id": 2611848,
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 40134,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/6-liqid.png",
+      "legacy_company_name": "LIQID"
     },
     {
       "role": "Software Engineer Intern - Berlin (2027)",
@@ -598,7 +564,9 @@
       "posting_date_source_url": "https://api.noah42.com/jobscout/v1/jobs/359579",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 3188,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/3-snowflake.com.png",
+      "legacy_company_name": "Snowflake"
     },
     {
       "role": "Software Engineer (Intern / Working Student)",
@@ -630,7 +598,9 @@
       "company_url_provenance": "User supplied canonical employer domain on Nov 12, 2026",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 132812,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/2-acemate.ai.svg",
+      "legacy_company_name": "acemate"
     },
     {
       "role": "AI Engineering - Intern",
@@ -651,7 +621,9 @@
       "jobscout_id": 2300744,
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 1458,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/11-generalmind.png",
+      "legacy_company_name": "GeneralMind"
     },
     {
       "role": "Member of Technical Staff (MTS) Intern (m/f/d)",
@@ -689,7 +661,9 @@
       "language_note": "English explicit; German helpful for some tax-advisory-team projects, not required for every project.",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 1637,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/1-limetax.de.png",
+      "legacy_company_name": "Limetax"
     },
     {
       "role": "Internship - Machine Learning Research Engineer",
@@ -710,26 +684,9 @@
       "jobscout_id": 1127541,
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 88771,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
-    },
-    {
-      "role": "GTM Engineering, AI & Automation Internship (all genders)",
-      "company": "autarc",
-      "posted": null,
-      "language": "Unclear",
-      "pay": "Not stated",
-      "job_url": "https://autarcenergy.jobs.personio.de/job/2777192",
-      "availability": "Listed at last check",
-      "category": "AI Builder",
-      "checked_at": "2026-11-12T14:56:00+01:00",
-      "location": "API reconciliation pending",
-      "eligibility": "",
-      "company_url": "",
-      "skills": "API reconciliation pending",
-      "skills_checked_at": "2026-11-12T14:56:00+01:00",
-      "skills_source_url": "https://autarcenergy.jobs.personio.de/job/2777192",
-      "api_reconciliation_status": "API reconciliation pending",
-      "field_source": "Legacy row retained, not API verified"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/22-perplexity.png",
+      "legacy_company_name": "Perplexity"
     },
     {
       "role": "Product Engineering Intern (m/w/d), Vertical AI Startup",
@@ -759,7 +716,9 @@
       "logo_status": "Identity-verified logo research pending",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 134513,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "",
+      "legacy_company_name": "MeisterPfad"
     },
     {
       "role": "Praktikum / Werkstudent Frontend Entwicklung (w/m/d)",
@@ -789,7 +748,9 @@
       "logo_status": "Identity-verified logo research pending",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 2138101,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "",
+      "legacy_company_name": "PwC"
     },
     {
       "role": "Praktikant*in - Data Science / Analytics / GenAI (w/m/d)",
@@ -820,7 +781,9 @@
       "company_url_provenance": "User supplied canonical employer domain on Nov 12, 2026",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 3217,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/3-capgemini.com.png",
+      "legacy_company_name": "Capgemini Invent"
     },
     {
       "role": "\u2022 Pflichtpraktikum / Abschlussarbeit Frontend & 3D-Softwareentwicklung (m/w/d) - unverg\u00fctet",
@@ -856,7 +819,9 @@
       "language_note": "API required flag is inferred only from posting language; no explicit German requirement in full description. Keep Unclear.",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 72020,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/2-think3ddd.de.png",
+      "legacy_company_name": "Think3DDD"
     },
     {
       "role": "Software Development Intern",
@@ -886,7 +851,9 @@
       "logo_status": "Identity-verified logo research pending",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 1935,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "",
+      "legacy_company_name": "Pandata"
     },
     {
       "role": "Software Engineering Intern",
@@ -910,29 +877,136 @@
       "posting_date_source": "Jobscout date_posted; source ashby",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 96123,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/27-qontext.svg",
+      "legacy_company_name": "Qontext"
     },
     {
-      "role": "AI Builder Intern",
-      "company": "Inca",
-      "posted": "2026-11-10",
-      "language": "German required",
+      "role": "Build Your Own Internship (m/f/d, min 6 months)",
+      "company": "Langdock",
+      "posted": null,
+      "language": "Unclear",
       "pay": "Not stated",
-      "job_url": "https://jobdropberlin.com/jobs/inca-ai-builder-intern",
-      "availability": "API listed",
+      "job_url": "https://jobs.ashbyhq.com/langdock/6e9e2672-851a-40e9-9c4e-0fb6cf351474",
+      "availability": "Listed at last check",
       "category": "AI Builder",
       "checked_at": "2026-11-12T14:56:00+01:00",
-      "location": "Berlin, BE, DE",
+      "location": "API reconciliation pending",
       "eligibility": "",
       "company_url": "",
-      "skills": "API requirements review pending",
+      "skills": "API reconciliation pending",
       "skills_checked_at": "2026-11-12T14:56:00+01:00",
-      "skills_source_url": "https://join.com/companies/get-incacom/16912600-ai-builder-intern-m-f-d",
-      "posting_date_note": "Employer JOIN schema datePosted is Jan 13; prior aggregator Nov 10 was not retained as the posting date.",
-      "jobscout_id": 3318810,
-      "api_reconciliation_status": "API mapped; requirements review pending",
-      "company_id": 40246,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "skills_source_url": "https://jobs.ashbyhq.com/langdock/6e9e2672-851a-40e9-9c4e-0fb6cf351474",
+      "api_reconciliation_status": "API reconciliation pending",
+      "field_source": "Legacy row retained, not API verified",
+      "icon": "assets/4-langdock.png",
+      "legacy_company_name": "Langdock"
+    },
+    {
+      "role": "Internship: AI/ML Engineering (m/f/x)",
+      "company": "Scalable Capital",
+      "posted": null,
+      "language": "Unclear",
+      "pay": "Not stated",
+      "job_url": "https://jobs.smartrecruiters.com/scalablegmbh/744000156493644",
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T14:56:00+01:00",
+      "location": "API reconciliation pending",
+      "eligibility": "",
+      "company_url": "",
+      "skills": "API reconciliation pending",
+      "skills_checked_at": "2026-11-12T14:56:00+01:00",
+      "skills_source_url": "https://jobs.smartrecruiters.com/scalablegmbh/744000156493644",
+      "posting_date_note": "Employer posting metadata Oct 20 supersedes prior aggregator Oct 21.",
+      "api_reconciliation_status": "API reconciliation pending",
+      "field_source": "Legacy row retained, not API verified",
+      "icon": "assets/16-scalable-capital.png",
+      "legacy_company_name": "Scalable Capital"
+    },
+    {
+      "role": "Internship AI & Automation: Energy (m/f/d)",
+      "company": "1KOMMA5 Grad",
+      "posted": null,
+      "language": "Unclear",
+      "pay": "Not stated",
+      "job_url": "https://1komma5grad.jobs.personio.de/job/2800670?language=de",
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T14:56:00+01:00",
+      "location": "API reconciliation pending",
+      "eligibility": "",
+      "company_url": "",
+      "skills": "API reconciliation pending",
+      "skills_checked_at": "2026-11-12T14:56:00+01:00",
+      "skills_source_url": "https://1komma5grad.jobs.personio.de/job/2800670?language=de",
+      "api_reconciliation_status": "API reconciliation pending",
+      "field_source": "Legacy row retained, not API verified",
+      "icon": "assets/19-1komma5-grad.png",
+      "legacy_company_name": "1KOMMA5 Grad"
+    },
+    {
+      "role": "Business Automation & AI Intern / Working Student (f/m/d)",
+      "company": "LIQID",
+      "posted": null,
+      "language": "Unclear",
+      "pay": "Not stated",
+      "job_url": "https://jobs.ashbyhq.com/liqid-lam/1c1f88e0-2d0c-47df-9967-b121bc0701ac?embed=js",
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T14:56:00+01:00",
+      "location": "API reconciliation pending",
+      "eligibility": "",
+      "company_url": "",
+      "skills": "API reconciliation pending",
+      "skills_checked_at": "2026-11-12T14:56:00+01:00",
+      "skills_source_url": "https://jobs.ashbyhq.com/liqid-lam/1c1f88e0-2d0c-47df-9967-b121bc0701ac?embed=js",
+      "api_reconciliation_status": "API reconciliation pending",
+      "field_source": "Legacy row retained, not API verified",
+      "icon": "assets/6-liqid.png",
+      "legacy_company_name": "LIQID"
+    },
+    {
+      "role": "Forward Deployed Engineer: AI Inference (Intern)",
+      "company": "Lyceum",
+      "posted": null,
+      "language": "Unclear",
+      "pay": "Not stated",
+      "job_url": "https://jobs.ashbyhq.com/Lyceum/7483d9e7-f14f-4315-81a9-dc560419d749",
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T14:56:00+01:00",
+      "location": "API reconciliation pending",
+      "eligibility": "",
+      "company_url": "",
+      "skills": "API reconciliation pending",
+      "skills_checked_at": "2026-11-12T14:56:00+01:00",
+      "skills_source_url": "https://jobs.ashbyhq.com/Lyceum/7483d9e7-f14f-4315-81a9-dc560419d749",
+      "api_reconciliation_status": "API reconciliation pending",
+      "field_source": "Legacy row retained, not API verified",
+      "icon": "assets/5-lyceum.png",
+      "legacy_company_name": "Lyceum"
+    },
+    {
+      "role": "GTM Engineering, AI & Automation Internship (all genders)",
+      "company": "autarc",
+      "posted": null,
+      "language": "Unclear",
+      "pay": "Not stated",
+      "job_url": "https://autarcenergy.jobs.personio.de/job/2777192",
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T14:56:00+01:00",
+      "location": "API reconciliation pending",
+      "eligibility": "",
+      "company_url": "",
+      "skills": "API reconciliation pending",
+      "skills_checked_at": "2026-11-12T14:56:00+01:00",
+      "skills_source_url": "https://autarcenergy.jobs.personio.de/job/2777192",
+      "api_reconciliation_status": "API reconciliation pending",
+      "field_source": "Legacy row retained, not API verified",
+      "icon": "assets/7-image-60be3f30.jpg",
+      "legacy_company_name": "autarc"
     },
     {
       "role": "Machine Learning Intern, Generative SI Applications (m/f/d) - Gigafactory Berlin-Brandenburg",
@@ -952,7 +1026,9 @@
       "jobscout_id": 2375665,
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 85,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/23-tesla.png",
+      "legacy_company_name": "Tesla - Gigafactory Berlin-Brandenburg"
     },
     {
       "role": "Product Intern (Applied AI)",
@@ -971,7 +1047,9 @@
       "skills_checked_at": "2026-11-12T14:56:00+01:00",
       "skills_source_url": "https://www.heyama.ai/careers/product-intern-(applied-ai)",
       "api_reconciliation_status": "API reconciliation pending",
-      "field_source": "Legacy row retained, not API verified"
+      "field_source": "Legacy row retained, not API verified",
+      "icon": "assets/20-ama.png",
+      "legacy_company_name": "ama"
     },
     {
       "role": "Engineering Intern",
@@ -989,7 +1067,9 @@
       "skills": "API reconciliation pending",
       "skills_checked_at": "2026-11-12T14:38:00+01:00",
       "api_reconciliation_status": "API reconciliation pending",
-      "field_source": "Legacy row retained, not API verified"
+      "field_source": "Legacy row retained, not API verified",
+      "icon": "assets/24-knowunity.svg",
+      "legacy_company_name": "Knowunity"
     },
     {
       "role": "Software Engineering Intern (2027 Start) - Berlin",
@@ -1009,7 +1089,9 @@
       "jobscout_id": 1904430,
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 6156,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/25-databricks.png",
+      "legacy_company_name": "Databricks"
     },
     {
       "role": "Software Engineer Intern - Fullstack (March 2027)",
@@ -1027,7 +1109,9 @@
       "skills": "API reconciliation pending",
       "skills_checked_at": "2026-11-12T14:47:00+01:00",
       "api_reconciliation_status": "API reconciliation pending",
-      "field_source": "Legacy row retained, not API verified"
+      "field_source": "Legacy row retained, not API verified",
+      "icon": "assets/2-doctolib.fr.png",
+      "legacy_company_name": "Doctolib"
     },
     {
       "role": "Backend Engineer - Internship (6 months)",
@@ -1045,7 +1129,9 @@
       "skills": "API reconciliation pending",
       "skills_checked_at": "2026-11-12T14:47:00+01:00",
       "api_reconciliation_status": "API reconciliation pending",
-      "field_source": "Legacy row retained, not API verified"
+      "field_source": "Legacy row retained, not API verified",
+      "icon": "assets/4-qonto.com.png",
+      "legacy_company_name": "Qonto"
     },
     {
       "role": "Working Student / Intern - Driving Functions Software Development",
@@ -1063,7 +1149,9 @@
       "skills": "API reconciliation pending",
       "skills_checked_at": "2026-11-12T14:47:00+01:00",
       "api_reconciliation_status": "API reconciliation pending",
-      "field_source": "Legacy row retained, not API verified"
+      "field_source": "Legacy row retained, not API verified",
+      "icon": "assets/5-mbition.io.png",
+      "legacy_company_name": "MBition"
     },
     {
       "role": "Full-Stack Software Engineering Intern",
@@ -1081,7 +1169,9 @@
       "skills": "API reconciliation pending",
       "skills_checked_at": "2026-11-12T14:47:00+01:00",
       "api_reconciliation_status": "API reconciliation pending",
-      "field_source": "Legacy row retained, not API verified"
+      "field_source": "Legacy row retained, not API verified",
+      "icon": "assets/6-voicari.com.png",
+      "legacy_company_name": "Voicari"
     },
     {
       "role": "Forward Deployed Engineer Intern platoapp Berlin Reopened 6 hours ago Data & AI AI Engineering Intern German required",
@@ -1111,7 +1201,9 @@
       "logo_status": "Identity-verified logo research pending",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 40189,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "",
+      "legacy_company_name": "Plato"
     },
     {
       "role": "Praktikum Parkauslastungsindex-Studierende (w/m/d) der Verkehrsingenieurwissenschaft,Informatik o.\u00e4.",
@@ -1141,7 +1233,9 @@
       "logo_status": "Identity-verified logo research pending",
       "api_reconciliation_status": "API mapped; requirements review pending",
       "company_id": 134947,
-      "field_source": "Jobscout API detail; legacy values retained in sources"
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "",
+      "legacy_company_name": "DLR"
     }
   ],
   "requirements_check_at": "2026-11-12T14:56:00+01:00",
