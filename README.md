@@ -4,16 +4,16 @@ Public internship lists for Berlin and clearly marked nearby roles.
 
 | Role type | Listings |
 | :--- | ---: |
-| [Software Engineering](software-engineering.md) | 11 |
-| [AI Builder and related roles](ai-builder.md) | 21 |
+| [Software Engineering](software-engineering.md) | 18 |
+| [AI Builder and related roles](ai-builder.md) | 25 |
 
-32 listings in this curated starting list, not a complete Jobscout export. Updated Nov 12, 2026.
+43 listings. API coverage expansion is in progress; this is not a complete Jobscout export. Updated Nov 12, 2026.
 
 ## Downloads
 
 [Combined CSV](data/2-jobs.csv) · [Combined JSON](data/3-jobs.json)
 
-The current list combines Jobscout records with separately checked employer details. We are moving to Jobscout details and facets first, then employer validation. Missing data is marked rather than guessed.
+Jobscout job details and facet evidence are the starting point for new additions. Employer checks are a separate validation step. API-listed and employer-rechecked are different states; missing data and source conflicts remain explicit. The older rows are being reconciled to API records without dropping them.
 
 ## Access Jobscout via API
 
