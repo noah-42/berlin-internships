@@ -15,7 +15,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "https://www.corporate.enpal.com/",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "AI Builder Intern",
@@ -28,7 +31,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "https://get-inca.com/en/careers",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "Internship (generalist, fintech)",
@@ -41,7 +47,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "https://augustus.com/",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "Build Your Own Internship (m/f/d, min 6 months)",
@@ -54,7 +63,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "https://langdock.com/",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "Intern AI Adoption & Product Marketing",
@@ -67,7 +79,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "https://www.superchat.com/",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "Internship Founders Associate to the Chief of Staff",
@@ -80,7 +95,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "https://traide.ai/en/about",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "AI Agent Builder (Claude/OpenAI) - Intern",
@@ -93,7 +111,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "https://heidisystems.com/",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "Process Automation Engineer - Internship (f/m/d)",
@@ -106,7 +127,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "https://www.metrify.de/",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "Internship: AI/ML Engineering (m/f/x)",
@@ -119,7 +143,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "https://de.scalable.capital/",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "Praktikum / Werkstudent im AI-SaaS Vertrieb",
@@ -132,7 +159,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "https://www.autarc.energy/global",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "Machine Learning Science Intern",
@@ -145,7 +175,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Remote EU time zones; quarterly Berlin weeks",
-      "eligibility": "Current PhD enrollment required"
+      "eligibility": "Current PhD enrollment required",
+      "company_url": "https://www.distillabs.ai/",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "Internship AI & Automation: Energy (m/f/d)",
@@ -158,7 +191,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "https://1komma5.com/en/",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "Business Automation & AI Intern / Working Student (f/m/d)",
@@ -171,7 +207,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "https://www.liqid.de/",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "QA Engineering Intern (w/m/x/d)",
@@ -184,7 +223,10 @@
       "category": "Software Engineering",
       "checked_at": "2026-11-12T14:14:00+01:00",
       "location": "Berlin",
-      "availability": "Employer listing verified"
+      "availability": "Employer listing verified",
+      "company_url": "https://www.miles-mobility.com/en-de",
+      "skills": "Java, JavaScript or TypeScript; HTTP/APIs, JSON; iOS/Android. Preferred: Postman, Appium/Playwright, Git, SQL",
+      "skills_checked_at": "2026-11-12T14:38:00+01:00"
     },
     {
       "role": "Forward Deployed Engineer: AI Inference (Intern)",
@@ -197,7 +239,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "https://lyceum.technology/",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "Agentic AI Internship (all genders)",
@@ -210,7 +255,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "Product Builder Intern: Growth",
@@ -223,7 +271,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "AI Engineering Intern",
@@ -236,7 +287,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "https://www.generalmind.com/",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "Internship: Machine Learning Research Engineer",
@@ -249,7 +303,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "GTM Engineering, AI & Automation Internship (all genders)",
@@ -262,7 +319,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "https://www.autarc.energy/global",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "Machine Learning Intern, Generative AI",
@@ -275,7 +335,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Grünheide, near Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "Product Intern (Applied AI)",
@@ -288,7 +351,10 @@
       "category": "AI Builder",
       "checked_at": "2026-11-12T09:25:00+01:00",
       "location": "Berlin",
-      "eligibility": ""
+      "eligibility": "",
+      "company_url": "https://www.heyama.ai/careers",
+      "skills": "Not yet verified",
+      "skills_checked_at": ""
     },
     {
       "role": "Engineering Intern",
@@ -301,7 +367,10 @@
       "category": "Software Engineering",
       "checked_at": "2026-11-12T14:14:00+01:00",
       "location": "Berlin",
-      "availability": "Employer listing verified"
+      "availability": "Employer listing verified",
+      "company_url": "https://knowunity.de/",
+      "skills": "Backend and frontend programming; no named language required. Stack: Flutter, Go, PostgreSQL, AWS/Kubernetes",
+      "skills_checked_at": "2026-11-12T14:38:00+01:00"
     },
     {
       "role": "Software Engineering Intern",
@@ -314,7 +383,10 @@
       "category": "Software Engineering",
       "checked_at": "2026-11-12T14:14:00+01:00",
       "location": "Berlin",
-      "availability": "Employer listing verified"
+      "availability": "Employer listing verified",
+      "company_url": "https://qontext.ai/",
+      "skills": "TypeScript or Python (work); testing; distributed systems",
+      "skills_checked_at": "2026-11-12T14:38:00+01:00"
     },
     {
       "role": "Software Engineering Intern (2027 Start) - Berlin",
@@ -327,7 +399,10 @@
       "category": "Software Engineering",
       "checked_at": "2026-11-12T14:14:00+01:00",
       "location": "Berlin",
-      "availability": "Employer listing verified"
+      "availability": "Employer listing verified",
+      "company_url": "https://www.databricks.com/",
+      "skills": "General-purpose programming (e.g. Python, Java or C++); algorithms, data structures, OOP",
+      "skills_checked_at": "2026-11-12T14:38:00+01:00"
     }
   ]
 }
