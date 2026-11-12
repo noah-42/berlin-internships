@@ -377,3 +377,19 @@ Original listing data and eligibility are preserved below.
 - Eligibility: Related current studies; traffic/geoinformatics/CS/AI/ML
 - Checked: 2026-11-12T15:03:00+01:00
 - Skills source: https://jobs.dlr.de/job/Berlin-Praktikum-Parkauslastungsindex-Studierende-%28wmd%29-der-Verkehrsingenieurwissenschaft%2CInformatik-o_%C3%A4_/1394279333/
+
+## Unverified canonical lead: Langdock
+
+{"id": 3112302, "url": "https://jobdropberlin.com/jobs/langdock-build-your-own-internship-m-f-d-min-6-months", "is_active": true, "linkage": "Unverified alternate-host lead; not established as the retained requisition"}
+
+## Unverified canonical lead: Qonto
+
+{"id": 882666, "url": "https://jobs.lever.co/qonto/27b04742-b983-411c-9a39-186e0738a60c", "is_active": false, "linkage": "Unverified alternate-host lead; not established as the retained requisition"}
+
+## Unverified canonical lead: LIQID
+
+{"id": 223886, "url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/business-automation-ai-intern-working-student-berlin-6500", "is_active": false, "linkage": "Unverified alternate-host lead; not established as the retained requisition"}
+
+## Unverified canonical lead: Knowunity
+
+{"id": 23027, "url": "https://www.joblyst.tech/jobs/post/fb23885e-7336-4b39-8207-fcc5d4db705d", "is_active": false, "linkage": "Unverified alternate-host lead; not established as the retained requisition"}
