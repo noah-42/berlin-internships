@@ -18,15 +18,15 @@ Optional: [CSV for spreadsheets](data/2-jobs.csv) · [JSON for coding agents](da
 
 | Logo | Company | Role | Posted | Language | Skills |
 | :---: | :--- | :--- | :--- | :---: | :--- |
-| <img src="assets/26-miles-mobility.png" width="28" height="28" alt="MILES Mobility logo"> | [MILES Mobility](https://www.miles-mobility.com/en-de) | [QA Engineering Intern (w/m/x/d)](https://miles-mobility.jobs.personio.de/job/2838625)<br><sub>6 months; €2,500/month; bootcamp/career-change accepted</sub> | Oct-12 | 🇬🇧 | Java, JavaScript or TypeScript; HTTP/APIs, JSON; iOS/Android. Preferred: Postman, Appium/Playwright, Git, SQL |
+| <img src="assets/26-miles-mobility.png" width="28" height="28" alt="MILES Mobility logo"> | [MILES Mobility](https://www.miles-mobility.com/en-de) | [QA Engineering Intern (w/m/x/d)](https://miles-mobility.jobs.personio.de/job/2838625)<br><sub>6 months; €2,500/month; bootcamp/career-change accepted</sub> | Oct-12 | 🇬🇧 | Java / JavaScript / TypeScript; HTTP, JSON |
 
 ### Posting date not provided
 
 | Logo | Company | Role | Posted | Language | Skills |
 | :---: | :--- | :--- | :--- | :---: | :--- |
-| <img src="assets/24-knowunity.svg" width="28" height="28" alt="Knowunity logo"> | [Knowunity](https://knowunity.de/) | [Engineering Intern](https://jobs.ashbyhq.com/knowunity/bee89901-5cda-4fd0-bb51-b2fd1e329877/application)<br><sub>Current/recent related degree; 5 office days/week</sub> | Unknown | 🇬🇧 | Backend and frontend programming; no named language required. Stack: Flutter, Go, PostgreSQL, AWS/Kubernetes |
-| <img src="assets/27-qontext.svg" width="28" height="28" alt="Qontext logo"> | [Qontext](https://qontext.ai/) | [Software Engineering Intern](https://jobs.ashbyhq.com/qontext/db01a1b4-896a-4d06-a756-ec0b3c9278ee/application)<br><sub>3-6 months; on-site</sub> | Unknown | Unclear | TypeScript or Python (work); testing; distributed systems |
-| <img src="assets/25-databricks.png" width="28" height="28" alt="Databricks logo"> | [Databricks](https://www.databricks.com/) | [Software Engineering Intern (2027 Start) - Berlin](https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineering-intern-2027-start---berlin-6866531002)<br><sub>Summer 2027; graduation fall 2027-summer 2028</sub> | Unknown | Unclear | General-purpose programming (e.g. Python, Java or C++); algorithms, data structures, OOP |
+| <img src="assets/24-knowunity.svg" width="28" height="28" alt="Knowunity logo"> | [Knowunity](https://knowunity.de/) | [Engineering Intern](https://jobs.ashbyhq.com/knowunity/bee89901-5cda-4fd0-bb51-b2fd1e329877/application)<br><sub>Current/recent related degree; 5 office days/week</sub> | Unknown | 🇬🇧 | Backend + frontend programming |
+| <img src="assets/27-qontext.svg" width="28" height="28" alt="Qontext logo"> | [Qontext](https://qontext.ai/) | [Software Engineering Intern](https://jobs.ashbyhq.com/qontext/db01a1b4-896a-4d06-a756-ec0b3c9278ee/application)<br><sub>3-6 months; on-site</sub> | Unknown | Unclear | Work: TypeScript / Python; testing |
+| <img src="assets/25-databricks.png" width="28" height="28" alt="Databricks logo"> | [Databricks](https://www.databricks.com/) | [Software Engineering Intern (2027 Start) - Berlin](https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineering-intern-2027-start---berlin-6866531002)<br><sub>Summer 2027; graduation fall 2027-summer 2028</sub> | Unknown | Unclear | Programming (e.g. Python / Java / C++); algorithms, data structures, OOP |
 
 ## AI Builder Internships
 
