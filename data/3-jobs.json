@@ -415,7 +415,7 @@
       "availability": "Listed at last check",
       "category": "Software Engineering",
       "checked_at": "2026-11-12T14:47:00+01:00",
-      "location": "Berlin or Iasi; hybrid3days",
+      "location": "Berlin or Iasi; hybrid, 3 office days/week",
       "eligibility": "Student-focused; strong CS fundamentals",
       "company_url": "https://taktile.com/",
       "skills": "CS fundamentals: algorithms, data structures, networking, distributed systems, databases",
@@ -431,8 +431,8 @@
       "availability": "Listed at last check",
       "category": "Software Engineering",
       "checked_at": "2026-11-12T14:47:00+01:00",
-      "location": "Berlin; hybrid3days",
-      "eligibility": "HPI students only;6months fromApril2027",
+      "location": "Berlin; hybrid, 3 office days/week",
+      "eligibility": "HPI students only; 6 months from April 2027",
       "company_url": "https://taktile.com/",
       "skills": "CS fundamentals: algorithms, data structures, networking, distributed systems, databases",
       "skills_checked_at": "2026-11-12T14:47:00+01:00"
@@ -448,7 +448,7 @@
       "category": "Software Engineering",
       "checked_at": "2026-11-12T14:47:00+01:00",
       "location": "Berlin; hybrid",
-      "eligibility": "Final year related degree;6months fulltime;March2027",
+      "eligibility": "Final year of related degree; 6 months full-time; March 2027",
       "company_url": "https://about.doctolib.com/",
       "skills": "Coding in multiple languages with AI agents; no named language required",
       "skills_checked_at": "2026-11-12T14:47:00+01:00"
@@ -464,7 +464,7 @@
       "category": "Software Engineering",
       "checked_at": "2026-11-12T14:47:00+01:00",
       "location": "Berlin",
-      "eligibility": "Actively enrolled3rd-yearBachelor throughPhD;4-12months;Feb2027onward",
+      "eligibility": "Enrolled, 3rd-year Bachelor through PhD; 4-12 months; February 2027 onward",
       "company_url": "https://www.snowflake.com/en/",
       "skills": "C++ or Java; algorithms, data structures, operating systems; concurrency",
       "skills_checked_at": "2026-11-12T14:47:00+01:00"
@@ -480,7 +480,7 @@
       "category": "Software Engineering",
       "checked_at": "2026-11-12T14:47:00+01:00",
       "location": "Berlin; hybrid",
-      "eligibility": "End-of-studies preferred; strong candidates at any level welcome;6months",
+      "eligibility": "End-of-studies preferred; strong candidates at any level welcome; 6 months",
       "company_url": "https://qonto.com/en",
       "skills": "Coding basics in any language; SQL; AI coding tools",
       "skills_checked_at": "2026-11-12T14:47:00+01:00"
@@ -496,7 +496,7 @@
       "category": "Software Engineering",
       "checked_at": "2026-11-12T14:47:00+01:00",
       "location": "Berlin",
-      "eligibility": "Enrolled related degree; internship or working-student route",
+      "eligibility": "Enrolled in related degree; internship or working-student route",
       "company_url": "https://mbition.io/",
       "skills": "C++, Python, Git; design patterns; build systems/CI; concurrency; AI tools",
       "skills_checked_at": "2026-11-12T14:47:00+01:00"
