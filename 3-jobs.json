@@ -1,8 +1,8 @@
 {
-  "title": "Berlin AI-builder internships",
+  "title": "Berlin internships: Software Engineering and AI Builder",
   "listing_check_at": "2026-11-12T09:25:00+01:00",
-  "prepared_at": "2026-11-12T14:01:00+01:00",
-  "scope": "Existing curated AI-builder and related internship list, not a complete software-engineering internship board. Some roles require German or have unconfirmed language requirements.",
+  "prepared_at": "2026-11-12T14:14:00+01:00",
+  "scope": "A curated starting list, not a complete vacancy catalog. Separate software-engineering and AI-builder sections; some roles require German or have unconfirmed language requirements.",
   "jobs": [
     {
       "role": "Praktikum AI & Automation: Virtual Power Plant",
@@ -11,7 +11,11 @@
       "language": "German required",
       "pay": "",
       "job_url": "https://jobdropberlin.com/jobs/enpal-praktikum-ai-and-automation-virtual-power-plant",
-      "availability": "Listed at last check"
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "AI Builder Intern",
@@ -20,7 +24,11 @@
       "language": "German required",
       "pay": "",
       "job_url": "https://jobdropberlin.com/jobs/inca-ai-builder-intern",
-      "availability": "Listed at last check"
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "Internship (generalist, fintech)",
@@ -29,7 +37,11 @@
       "language": "Unclear",
       "pay": "2,500 EUR/month",
       "job_url": "https://jobs.ashbyhq.com/augustus/5208e27a-2bca-498e-a7e1-efb981279847",
-      "availability": "Needs verification"
+      "availability": "Needs verification",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "Build Your Own Internship (m/f/d, min 6 months)",
@@ -38,7 +50,11 @@
       "language": "English sufficient",
       "pay": "",
       "job_url": "https://jobs.ashbyhq.com/langdock/6e9e2672-851a-40e9-9c4e-0fb6cf351474",
-      "availability": "Listed at last check"
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "Intern AI Adoption & Product Marketing",
@@ -47,7 +63,11 @@
       "language": "German required",
       "pay": "",
       "job_url": "https://jobdropberlin.com/jobs/superchat-intern-ai-adoption-and-product-marketing",
-      "availability": "Listed at last check"
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "Internship Founders Associate to the Chief of Staff",
@@ -56,7 +76,11 @@
       "language": "German required",
       "pay": "",
       "job_url": "https://jobdropberlin.com/jobs/traide-ai-internship-founders-associate-to-the-chief-of-staff",
-      "availability": "Listed at last check"
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "AI Agent Builder (Claude/OpenAI) - Intern",
@@ -65,7 +89,11 @@
       "language": "German required",
       "pay": "",
       "job_url": "https://www.arbeitnow.com/jobs/companies/heidi-systems/ai-agent-builder-claude-openai-intern-berlin-206115",
-      "availability": "Listed at last check"
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "Process Automation Engineer - Internship (f/m/d)",
@@ -74,7 +102,11 @@
       "language": "English sufficient",
       "pay": "",
       "job_url": "https://jobs.ashbyhq.com/enpal/8c407089-cfdb-47b8-9e35-de7ce3073148",
-      "availability": "Listed at last check"
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "Internship: AI/ML Engineering (m/f/x)",
@@ -83,7 +115,11 @@
       "language": "Unclear",
       "pay": "",
       "job_url": "https://jobs.smartrecruiters.com/scalablegmbh/744000156493644",
-      "availability": "Listed at last check"
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "Praktikum / Werkstudent im AI-SaaS Vertrieb",
@@ -92,7 +128,11 @@
       "language": "German required",
       "pay": "",
       "job_url": "https://autarcenergy.jobs.personio.de/job/2845630",
-      "availability": "Listed at last check"
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "Machine Learning Science Intern",
@@ -101,7 +141,11 @@
       "language": "Unclear",
       "pay": "Paid, \"above-market\" per listing",
       "job_url": "https://databerlin.net/jobs/machine-learning-science-intern-at-distil-labs",
-      "availability": "Listed at last check"
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Remote EU time zones; quarterly Berlin weeks",
+      "eligibility": "Current PhD enrollment required"
     },
     {
       "role": "Internship AI & Automation: Energy (m/f/d)",
@@ -110,7 +154,11 @@
       "language": "German required",
       "pay": "",
       "job_url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/internship-ai-automation-energy-berlin-56376",
-      "availability": "Needs verification"
+      "availability": "Needs verification",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "Business Automation & AI Intern / Working Student (f/m/d)",
@@ -119,7 +167,24 @@
       "language": "English sufficient",
       "pay": "",
       "job_url": "https://jobs.ashbyhq.com/liqid-lam/1c1f88e0-2d0c-47df-9967-b121bc0701ac",
-      "availability": "Needs verification"
+      "availability": "Needs verification",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
+    },
+    {
+      "role": "QA Engineering Intern (w/m/x/d)",
+      "company": "MILES Mobility",
+      "language": "English sufficient",
+      "pay": "2,500 EUR/month",
+      "job_url": "https://miles-mobility.jobs.personio.de/job/2838625",
+      "eligibility": "6 months full-time; recent related degree, bootcamp or tech career change; Java/JavaScript/TypeScript; English writing required",
+      "posted": "2026-10-12",
+      "category": "Software Engineering",
+      "checked_at": "2026-11-12T14:14:00+01:00",
+      "location": "Berlin",
+      "availability": "Employer listing verified"
     },
     {
       "role": "Forward Deployed Engineer: AI Inference (Intern)",
@@ -128,7 +193,11 @@
       "language": "English sufficient",
       "pay": "",
       "job_url": "https://jobs.ashbyhq.com/Lyceum/7483d9e7-f14f-4315-81a9-dc560419d749",
-      "availability": "Listed at last check"
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "Agentic AI Internship (all genders)",
@@ -137,7 +206,11 @@
       "language": "Unclear",
       "pay": "2,395 EUR/month per catalog",
       "job_url": "https://talent.bayer.com/careers/job/562949978699007",
-      "availability": "Listed at last check"
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "Product Builder Intern: Growth",
@@ -146,7 +219,11 @@
       "language": "Unclear",
       "pay": "",
       "job_url": "https://www.joblyst.tech/jobs/post/4816fcd0-819f-4473-95ad-9568e0c1cb31",
-      "availability": "Needs verification"
+      "availability": "Needs verification",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "AI Engineering Intern",
@@ -155,7 +232,11 @@
       "language": "Unclear",
       "pay": "",
       "job_url": "https://jobdropberlin.com/jobs/generalmind-ai-engineering-intern",
-      "availability": "Needs verification"
+      "availability": "Needs verification",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "Internship: Machine Learning Research Engineer",
@@ -164,7 +245,11 @@
       "language": "Unclear",
       "pay": "",
       "job_url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c",
-      "availability": "Listed at last check"
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "GTM Engineering, AI & Automation Internship (all genders)",
@@ -173,7 +258,11 @@
       "language": "English sufficient",
       "pay": "",
       "job_url": "https://autarcenergy.jobs.personio.de/job/2777192",
-      "availability": "Listed at last check"
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
     },
     {
       "role": "Machine Learning Intern, Generative AI",
@@ -182,7 +271,11 @@
       "language": "Unclear",
       "pay": "",
       "job_url": "https://www.tesla.com/careers/search/job/287334",
-      "availability": "Needs verification"
+      "availability": "Needs verification",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Grünheide, near Berlin",
+      "eligibility": ""
     },
     {
       "role": "Product Intern (Applied AI)",
@@ -191,7 +284,50 @@
       "language": "English sufficient",
       "pay": "Paid",
       "job_url": "https://www.heyama.ai/careers/product-intern-(applied-ai)",
-      "availability": "Listed at last check"
+      "availability": "Listed at last check",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T09:25:00+01:00",
+      "location": "Berlin",
+      "eligibility": ""
+    },
+    {
+      "role": "Engineering Intern",
+      "company": "Knowunity",
+      "language": "English sufficient",
+      "pay": "Competitive salary; amount not stated",
+      "job_url": "https://jobs.ashbyhq.com/knowunity/bee89901-5cda-4fd0-bb51-b2fd1e329877/application",
+      "eligibility": "Pursuing or recently completed CS/software engineering or related degree; strong frontend/backend programming; Berlin office 5 days/week",
+      "posted": null,
+      "category": "Software Engineering",
+      "checked_at": "2026-11-12T14:14:00+01:00",
+      "location": "Berlin",
+      "availability": "Employer listing verified"
+    },
+    {
+      "role": "Software Engineering Intern",
+      "company": "Qontext",
+      "language": "Unclear",
+      "pay": "Competitive salary; amount not stated",
+      "job_url": "https://jobs.ashbyhq.com/qontext/db01a1b4-896a-4d06-a756-ec0b3c9278ee/application",
+      "eligibility": "Full-time, 3-6 months, Berlin on-site; database/platform/product/applied-AI tracks",
+      "posted": null,
+      "category": "Software Engineering",
+      "checked_at": "2026-11-12T14:14:00+01:00",
+      "location": "Berlin",
+      "availability": "Employer listing verified"
+    },
+    {
+      "role": "Software Engineering Intern (2027 Start) - Berlin",
+      "company": "Databricks",
+      "language": "Unclear",
+      "pay": "Not stated",
+      "job_url": "https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineering-intern-2027-start---berlin-6866531002",
+      "eligibility": "Summer 2027, 12 weeks; graduation fall 2027 to summer 2028 in CS/engineering or related degree",
+      "posted": null,
+      "category": "Software Engineering",
+      "checked_at": "2026-11-12T14:14:00+01:00",
+      "location": "Berlin",
+      "availability": "Employer listing verified"
     }
   ]
 }
