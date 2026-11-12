@@ -211,7 +211,7 @@
       "checked_at": "2026-11-12T15:03:00+01:00",
       "location": "Berlin",
       "eligibility": "Related degree or nearing graduation",
-      "company_url": "https://www.epicb.com/",
+      "company_url": "https://epicbrands.de/",
       "skills": "JavaScript/TypeScript / Node; backend services, cloud or e-commerce systems; LLM APIs preferred",
       "skills_checked_at": "2026-11-12T15:03:00+01:00",
       "skills_source_url": "https://www.arbeitnow.com/jobs/companies/epic-brands-gmbh/praktikum-ai-software-engineer-im-ecommerce-berlin-80656",
@@ -224,7 +224,11 @@
       "api_program": "internship",
       "posting_date_source": "Jobscout date_posted",
       "external_validation_at": "",
-      "logo_status": "Identity-verified logo research pending"
+      "logo_status": "User-provided image override",
+      "logo_provenance": "User supplied Epic Brands image Nov 12, 2026",
+      "logo_sha256": "7077a26e57425428c252addce447035460c10403124f1308b6bbd58f3edc16d0",
+      "company_identity_note": "API epicb.com is unrelated US restaurant group; official epicbrands.de names Berlin and the same KLAMER, Steinwood and Fitleap brands as job description.",
+      "company_url_provenance": "Official employer page https://epicbrands.de/ verified Nov 12, 2026; brand legal entity confirmed at https://klamer-home.com/pages/impressum"
     },
     {
       "role": "Praktikum / Werkstudent im AI-SaaS Vertrieb",
