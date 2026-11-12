@@ -1,5 +1,7 @@
 # Berlin internships
 
+[All job listings](https://github.com/noah-42/job-listings) · [Europe PM jobs](https://github.com/noah-42/remote-product-manager-jobs/blob/main/europe.md) · [USA PM jobs](https://github.com/noah-42/remote-product-manager-jobs/blob/main/usa.md)
+
 Public internship lists for Berlin and clearly marked nearby roles.
 
 | Role type | Listings |
