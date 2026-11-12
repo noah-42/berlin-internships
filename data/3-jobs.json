@@ -27,7 +27,8 @@
       "icon": "assets/8-enpal.png",
       "legacy_company_name": "Enpal",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-11-12T05:21:06.192000"
     },
     {
       "role": "AI Builder Intern",
@@ -53,7 +54,8 @@
       "icon": "assets/15-inca.png",
       "legacy_company_name": "Inca",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-11-10T05:21:07.487000"
     },
     {
       "role": "Internship",
@@ -78,7 +80,8 @@
       "icon": "assets/13-augustus.png",
       "legacy_company_name": "Augustus",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-11-05T10:03:08.182000"
     },
     {
       "role": "Intern AI Adoption & Product Marketing",
@@ -103,32 +106,8 @@
       "icon": "assets/17-superchat.png",
       "legacy_company_name": "Superchat",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
-    },
-    {
-      "role": "Internship Founders Associate to the Chief of Staff",
-      "company": "Traide AI",
-      "posted": "2026-11-03",
-      "language": "German required",
-      "pay": "Not stated",
-      "job_url": "https://jobdropberlin.com/jobs/traide-ai-internship-founders-associate-to-the-chief-of-staff",
-      "availability": "API listed",
-      "category": "AI Builder",
-      "checked_at": "2026-11-12T14:56:00+01:00",
-      "location": "Berlin, BE, DE",
-      "eligibility": "",
-      "company_url": "https://traide.ai/",
-      "skills": "Late bachelor or master; prior fast-paced project experience; German C1/native and English B2+; organized, hands-on",
-      "skills_checked_at": "2026-11-12T14:56:00+01:00",
-      "skills_source_url": "https://traide-ai.jobs.personio.com/job/2873137?language=en",
-      "jobscout_id": 3112293,
-      "api_reconciliation_status": "API mapped; description checked",
-      "company_id": 774,
-      "field_source": "Jobscout API detail; legacy values retained in sources",
-      "icon": "assets/8-image-4dd07df6.jpg",
-      "legacy_company_name": "Traide AI",
-      "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-11-04T05:21:03.906000"
     },
     {
       "role": "AI Agent Builder (Claude/OpenAI) - Intern",
@@ -153,7 +132,34 @@
       "icon": "assets/14-heidi-systems.png",
       "legacy_company_name": "Heidi Systems",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-11-03T17:01:20"
+    },
+    {
+      "role": "Internship Founders Associate to the Chief of Staff",
+      "company": "Traide AI",
+      "posted": "2026-11-03",
+      "language": "German required",
+      "pay": "Not stated",
+      "job_url": "https://jobdropberlin.com/jobs/traide-ai-internship-founders-associate-to-the-chief-of-staff",
+      "availability": "API listed",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T14:56:00+01:00",
+      "location": "Berlin, BE, DE",
+      "eligibility": "",
+      "company_url": "https://traide.ai/",
+      "skills": "Late bachelor or master; prior fast-paced project experience; German C1/native and English B2+; organized, hands-on",
+      "skills_checked_at": "2026-11-12T14:56:00+01:00",
+      "skills_source_url": "https://traide-ai.jobs.personio.com/job/2873137?language=en",
+      "jobscout_id": 3112293,
+      "api_reconciliation_status": "API mapped; description checked",
+      "company_id": 774,
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/8-image-4dd07df6.jpg",
+      "legacy_company_name": "Traide AI",
+      "requirements_source": "Jobscout API description; missing text flagged",
+      "api_active": true,
+      "posted_source_timestamp": "2026-11-03T10:56:32"
     },
     {
       "role": "Process Automation Engineer - Internship (f/m/d)",
@@ -179,7 +185,8 @@
       "legacy_company_name": "Enpal / Metrify",
       "requirements_source": "Jobscout API description; missing text flagged",
       "language_source": "Explicit English requirement in API description; no mandatory German there",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-11-02T10:02:53.088000"
     },
     {
       "role": "Software Dev Engineer internship - Embedded Development (m/w/d)",
@@ -215,7 +222,8 @@
       "icon": "assets/1-amazon.com.ico",
       "legacy_company_name": "Amazon Europe Core",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-10-30T00:00:00"
     },
     {
       "role": "Software Dev Engineer Intern (m/w/d)",
@@ -251,7 +259,8 @@
       "icon": "assets/1-amazon.com.ico",
       "legacy_company_name": "Amazon Europe Core",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-10-29T00:00:00"
     },
     {
       "role": "Pflichtpraktikum Backend Softwareentwicklung & KI (m/w/d) - Python, APIs & MedTech",
@@ -293,7 +302,8 @@
       "icon": "assets/2-think3ddd.de.png",
       "legacy_company_name": "Think3DDD",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-10-26T10:30:48"
     },
     {
       "role": "Praktikum Anwendungsentwicklung (w/m/d)",
@@ -334,7 +344,8 @@
       "icon": "assets/3-swoofle.de.webp",
       "legacy_company_name": "SWOOFLE",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-10-24T21:29:42.889000"
     },
     {
       "role": "Praktikum AI Software Engineer im eCommerce (m/w/d)",
@@ -372,7 +383,8 @@
       "icon": "assets/4-image-e29ab19a.jpg",
       "legacy_company_name": "Epic Brands",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-10-19T18:00:56"
     },
     {
       "role": "Praktikum / Werkstudent (m/w/d) im AI-SAAS Vertrieb",
@@ -397,7 +409,8 @@
       "icon": "assets/7-image-60be3f30.jpg",
       "legacy_company_name": "autarc",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-10-16T06:22:22"
     },
     {
       "role": "Value Delivery Intern - Automations",
@@ -431,32 +444,8 @@
       "icon": "assets/11-generalmind.png",
       "legacy_company_name": "GeneralMind",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
-    },
-    {
-      "role": "Machine Learning Science Intern",
-      "company": "distil labs",
-      "posted": "2026-10-14",
-      "language": "Unclear",
-      "pay": "Not stated",
-      "job_url": "https://databerlin.net/jobs/machine-learning-science-intern-at-distil-labs",
-      "availability": "API listed",
-      "category": "AI Builder",
-      "checked_at": "2026-11-12T14:56:00+01:00",
-      "location": "Berlin, DE",
-      "eligibility": "",
-      "company_url": "https://www.distillabs.ai/",
-      "skills": "Current related PhD enrollment; Python and modern ML framework; 4-6 months full-time; EU time zones; quarterly Berlin on-site weeks",
-      "skills_checked_at": "2026-11-12T14:56:00+01:00",
-      "skills_source_url": "https://www.distillabs.ai/careers/machine-learning-science-intern/",
-      "jobscout_id": 673831,
-      "api_reconciliation_status": "API mapped; description checked",
-      "company_id": 133291,
-      "field_source": "Jobscout API detail; legacy values retained in sources",
-      "icon": "assets/10-distil-labs.png",
-      "legacy_company_name": "distil labs",
-      "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-10-15T10:22:56.783000"
     },
     {
       "role": "Software Engineer Internship for HPI Students",
@@ -483,7 +472,34 @@
       "legacy_company_name": "Taktile",
       "requirements_source": "Jobscout API description; missing text flagged",
       "language_source": "Explicit English fluency in Jobscout API description; no mandatory German in same requirement",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-10-14T12:13:27.073000"
+    },
+    {
+      "role": "Machine Learning Science Intern",
+      "company": "distil labs",
+      "posted": "2026-10-14",
+      "language": "Unclear",
+      "pay": "Not stated",
+      "job_url": "https://databerlin.net/jobs/machine-learning-science-intern-at-distil-labs",
+      "availability": "API listed",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T14:56:00+01:00",
+      "location": "Berlin, DE",
+      "eligibility": "",
+      "company_url": "https://www.distillabs.ai/",
+      "skills": "Current related PhD enrollment; Python and modern ML framework; 4-6 months full-time; EU time zones; quarterly Berlin on-site weeks",
+      "skills_checked_at": "2026-11-12T14:56:00+01:00",
+      "skills_source_url": "https://www.distillabs.ai/careers/machine-learning-science-intern/",
+      "jobscout_id": 673831,
+      "api_reconciliation_status": "API mapped; description checked",
+      "company_id": 133291,
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/10-distil-labs.png",
+      "legacy_company_name": "distil labs",
+      "requirements_source": "Jobscout API description; missing text flagged",
+      "api_active": true,
+      "posted_source_timestamp": "2026-10-14T00:00:00"
     },
     {
       "role": "QA Engineering Intern (w/m/x/d)",
@@ -508,7 +524,8 @@
       "legacy_company_name": "MILES Mobility",
       "requirements_source": "Jobscout API description; missing text flagged",
       "language_source": "Explicit English requirement in API description; no mandatory German there",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-10-12T15:01:30"
     },
     {
       "role": "Software Engineer Intern",
@@ -536,7 +553,34 @@
       "legacy_company_name": "Taktile",
       "requirements_source": "Jobscout API description; missing text flagged",
       "language_source": "Explicit English fluency in Jobscout API description; no mandatory German in same requirement",
-      "api_active": false
+      "api_active": false,
+      "posted_source_timestamp": "2026-10-07T09:12:55.275000"
+    },
+    {
+      "role": "Product Builder Intern - Growth",
+      "company": "LIQUID",
+      "posted": "2026-10-06",
+      "language": "Unclear",
+      "pay": "Not stated",
+      "job_url": "https://www.joblyst.tech/jobs/post/4816fcd0-819f-4473-95ad-9568e0c1cb31",
+      "availability": "API listed",
+      "category": "AI Builder",
+      "checked_at": "2026-11-12T14:56:00+01:00",
+      "location": "Berlin",
+      "eligibility": "",
+      "company_url": "https://www.liquid.trade/",
+      "skills": "Enrolled related bachelor/master; shipped project link; coding, ideally JS/TS and React; Git; AI coding tools",
+      "skills_checked_at": "2026-11-12T14:56:00+01:00",
+      "skills_source_url": "https://jobs.ashbyhq.com/liqid-lig/71c56fc1-51d5-4a64-86b0-4dca1d8bad24",
+      "jobscout_id": 2611848,
+      "api_reconciliation_status": "API mapped; description checked",
+      "company_id": 40134,
+      "field_source": "Jobscout API detail; legacy values retained in sources",
+      "icon": "assets/6-liqid.png",
+      "legacy_company_name": "LIQID",
+      "requirements_source": "Jobscout API description; missing text flagged",
+      "api_active": true,
+      "posted_source_timestamp": "2026-10-06T12:37:56.556000"
     },
     {
       "role": "Agentic AI Internship (All Genders)",
@@ -562,32 +606,8 @@
       "legacy_company_name": "Bayer",
       "requirements_source": "Jobscout API description; missing text flagged",
       "language_source": "Explicit English requirement in API description; no mandatory German there",
-      "api_active": true
-    },
-    {
-      "role": "Product Builder Intern - Growth",
-      "company": "LIQUID",
-      "posted": "2026-10-06",
-      "language": "Unclear",
-      "pay": "Not stated",
-      "job_url": "https://www.joblyst.tech/jobs/post/4816fcd0-819f-4473-95ad-9568e0c1cb31",
-      "availability": "API listed",
-      "category": "AI Builder",
-      "checked_at": "2026-11-12T14:56:00+01:00",
-      "location": "Berlin",
-      "eligibility": "",
-      "company_url": "https://www.liquid.trade/",
-      "skills": "Enrolled related bachelor/master; shipped project link; coding, ideally JS/TS and React; Git; AI coding tools",
-      "skills_checked_at": "2026-11-12T14:56:00+01:00",
-      "skills_source_url": "https://jobs.ashbyhq.com/liqid-lig/71c56fc1-51d5-4a64-86b0-4dca1d8bad24",
-      "jobscout_id": 2611848,
-      "api_reconciliation_status": "API mapped; description checked",
-      "company_id": 40134,
-      "field_source": "Jobscout API detail; legacy values retained in sources",
-      "icon": "assets/6-liqid.png",
-      "legacy_company_name": "LIQID",
-      "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-10-06T00:00:00"
     },
     {
       "role": "Software Engineer Intern - Berlin (2027)",
@@ -614,7 +634,8 @@
       "legacy_company_name": "Snowflake",
       "requirements_source": "Jobscout API description; missing text flagged",
       "language_source": "Explicit English fluency in Jobscout API description; no mandatory German in same requirement",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-09-29T06:23:45.439000"
     },
     {
       "role": "Software Engineer (Intern / Working Student)",
@@ -650,7 +671,8 @@
       "icon": "assets/2-acemate.ai.svg",
       "legacy_company_name": "acemate",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-09-27T17:54:04.671000"
     },
     {
       "role": "Internship AI & Automation - Energy (m/f/d)",
@@ -675,7 +697,8 @@
       "jobscout_id": 242935,
       "company_id": 873,
       "requirements_source": "Jobscout API description",
-      "api_active": false
+      "api_active": false,
+      "posted_source_timestamp": "2026-09-16T21:54:04"
     },
     {
       "role": "AI Engineering - Intern",
@@ -700,7 +723,8 @@
       "icon": "assets/11-generalmind.png",
       "legacy_company_name": "GeneralMind",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-09-14T05:29:48.726000"
     },
     {
       "role": "Member of Technical Staff (MTS) Intern (m/f/d)",
@@ -742,7 +766,8 @@
       "icon": "assets/1-limetax.de.png",
       "legacy_company_name": "Limetax",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-09-04T14:00:08.829000"
     },
     {
       "role": "Internship - Machine Learning Research Engineer",
@@ -767,7 +792,8 @@
       "icon": "assets/22-perplexity.png",
       "legacy_company_name": "Perplexity",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-09-02T10:35:02.552000"
     },
     {
       "role": "Product Engineering Intern (m/w/d), Vertical AI Startup",
@@ -801,7 +827,8 @@
       "icon": "",
       "legacy_company_name": "MeisterPfad",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-08-28T09:37:27.249000"
     },
     {
       "role": "Praktikum / Werkstudent Frontend Entwicklung (w/m/d)",
@@ -835,7 +862,8 @@
       "icon": "",
       "legacy_company_name": "PwC",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-08-24T00:00:00"
     },
     {
       "role": "Praktikant*in - Data Science / Analytics / GenAI (w/m/d)",
@@ -870,7 +898,8 @@
       "icon": "assets/3-capgemini.com.png",
       "legacy_company_name": "Capgemini Invent",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-07-31T00:00:00"
     },
     {
       "role": "\u2022 Pflichtpraktikum / Abschlussarbeit Frontend & 3D-Softwareentwicklung (m/w/d) - unverg\u00fctet",
@@ -910,7 +939,8 @@
       "icon": "assets/2-think3ddd.de.png",
       "legacy_company_name": "Think3DDD",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-07-05T21:04:44.260000"
     },
     {
       "role": "Software Development Intern",
@@ -945,7 +975,8 @@
       "legacy_company_name": "Pandata",
       "requirements_source": "Jobscout API description; missing text flagged",
       "language_source": "Explicit English fluency in Jobscout API description; no mandatory German in same requirement",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": "2026-05-07T00:00:00"
     },
     {
       "role": "Software Engineering Intern",
@@ -973,7 +1004,8 @@
       "icon": "assets/27-qontext.svg",
       "legacy_company_name": "Qontext",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": false
+      "api_active": false,
+      "posted_source_timestamp": "2026-03-06T15:47:42.140000"
     },
     {
       "role": "Build Your Own Internship (m/f/d, min 6 months)",
@@ -1167,7 +1199,8 @@
       "icon": "assets/23-tesla.png",
       "legacy_company_name": "Tesla - Gigafactory Berlin-Brandenburg",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": null
     },
     {
       "role": "Product Intern (Applied AI)",
@@ -1212,7 +1245,8 @@
       "icon": "assets/25-databricks.png",
       "legacy_company_name": "Databricks",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": null
     },
     {
       "role": "Software Engineer Intern - Fullstack (March 2027)",
@@ -1306,7 +1340,8 @@
       "icon": "",
       "legacy_company_name": "Plato",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": null
     },
     {
       "role": "Praktikum Parkauslastungsindex-Studierende (w/m/d) der Verkehrsingenieurwissenschaft,Informatik o.\u00e4.",
@@ -1340,7 +1375,8 @@
       "icon": "",
       "legacy_company_name": "DLR",
       "requirements_source": "Jobscout API description; missing text flagged",
-      "api_active": true
+      "api_active": true,
+      "posted_source_timestamp": null
     }
   ],
   "requirements_check_at": "2026-11-12T14:56:00+01:00",
