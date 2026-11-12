@@ -393,3 +393,7 @@ Original listing data and eligibility are preserved below.
 ## Unverified canonical lead: Knowunity
 
 {"id": 23027, "url": "https://www.joblyst.tech/jobs/post/fb23885e-7336-4b39-8207-fcc5d4db705d", "is_active": false, "linkage": "Unverified alternate-host lead; not established as the retained requisition"}
+
+## Langdock exact-ID reconciliation correction, Nov12 19:35
+
+Jobscout3112302 has source_job_id6e9e2672-851a-40e9-9c4e-0fb6cf351474, exactly matching the retained Ashby URL, despite its primary source URL being JobdropBerlin. The previous alternate-host-only check missed that identity evidence and incorrectly cleared the valid Nov05,2026 date. The six-month filter then hid the row. Exact ID mapping and API date restored; all fields use held API detail, employer URL used only to check current display. No database changes; no fabricated posting date. Current31, full47.
