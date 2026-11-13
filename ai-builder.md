@@ -2,7 +2,7 @@
 
 [All job listings](https://github.com/noah-42/job-listings) · [Internship directory](README.md) · [CSV](data/2-jobs.csv) · [JSON](data/3-jobs.json)
 
-Current GitHub window: posting dates 2026-05-12 onward (rolling six calendar months). Older and unknown-date records are excluded from this visible list and current exports. [Full source archive](archive-all-records.json) retains all records; no source database records were changed. Logos: fit within 60x60px, aspect ratio preserved.
+Current GitHub window: posting dates 2026-05-13 onward (rolling six calendar months). Older and unknown-date records are excluded from this visible list and current exports. [Full source archive](archive-all-records.json) retains all records; no source database records were changed. Logos: fit within 60x60px, aspect ratio preserved.
 
 🇬🇧 English sufficient · 🇩🇪 German required · Unclear: not confirmed. Language is separate from degree/enrollment eligibility. Nearby non-Berlin locations are labeled.
 
