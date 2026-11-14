@@ -397,3 +397,9 @@ Original listing data and eligibility are preserved below.
 ## Langdock exact-ID reconciliation correction, Nov12 19:35
 
 Jobscout3112302 has source_job_id6e9e2672-851a-40e9-9c4e-0fb6cf351474, exactly matching the retained Ashby URL, despite its primary source URL being JobdropBerlin. The previous alternate-host-only check missed that identity evidence and incorrectly cleared the valid Nov05,2026 date. The six-month filter then hid the row. Exact ID mapping and API date restored; all fields use held API detail, employer URL used only to check current display. No database changes; no fabricated posting date. Current31, full47.
+
+## Nov 14 addition and source conflict
+
+Andercore Forward Deployed Intern, job3497972/company1300, added from live Jobscout detail: https://api.noah42.com/jobscout/v1/jobs/3497972 . Actual API posting date Nov12; first added here Nov14. Employer listing rechecked: https://jobs.ashbyhq.com/andercore/1c400aca-d835-49f7-b11c-643b829d8b03 . Fluent English, German a plus; six months full-time Berlin; related degree enrollment and Python/JavaScript required. API salary absent; employer metadata has an uncertain annual pay unit, so no monthly pay inferred. Logo Pending means not yet checked.
+
+Travelcircus Junior Data & AI Engineer1002447 is active in Jobscout but its linked page explicitly says no longer accepting applications: https://databerlin.net/jobs/junior-data-ai-engineer-mfx-at-travelcircus . Not added to current open lists. Junior-role search was bounded, not exhaustive.
