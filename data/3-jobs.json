@@ -1185,7 +1185,7 @@
   ]
  },
  "publication_window": {
-  "cutoff": "2026-05-16",
+  "cutoff": "2026-05-17",
   "scope": "GitHub current listings only",
   "older_or_unknown_excluded": 16,
   "archive": "archive-all-records.json",
