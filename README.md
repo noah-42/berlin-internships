@@ -7,9 +7,9 @@ Public internship lists for Berlin and clearly marked nearby roles.
 | Role type | Listings |
 | :--- | ---: |
 | [Software Engineering](software-engineering.md) | 14 |
-| [AI Builder and related roles](ai-builder.md) | 23 |
+| [AI Builder and related roles](ai-builder.md) | 26 |
 
-37 current-window listings; 49 retained in the full archive. API coverage expansion is in progress; this is not a complete Jobscout export. Andercore added Nov 14, 2026; Bettermile added Nov 15, 2026; AgentixLake (3 roles) and Pliant added Nov 16, 2026; older rows have their own check dates.
+40 current-window listings; 49 retained in the full archive. API coverage expansion is in progress; this is not a complete Jobscout export. Andercore added Nov 14, 2026; Bettermile added Nov 15, 2026; AgentixLake (3 roles) and Pliant added Nov 16, 2026; Doctolib, Enpal and SAP added Nov 19, 2026; older rows have their own check dates.
 
 ## Downloads
 
@@ -34,6 +34,6 @@ Public job information only. No applicant profiles or private application notes 
 
 ## Current GitHub window
 
-Only confirmed posting dates from 2026-05-18 onward appear in the lists and current CSV/JSON exports. This is a rolling six-calendar-month window. Older and unknown dates are excluded from the visible lists; [full source archive](archive-all-records.json) preserves every record. No source database records changed.
+Only confirmed posting dates from 2026-05-19 onward appear in the lists and current CSV/JSON exports. This is a rolling six-calendar-month window. Older and unknown dates are excluded from the visible lists; [full source archive](archive-all-records.json) preserves every record. No source database records changed.
 
-Current visible page counts: software-engineering.md: 14, ai-builder.md: 23.
+Current visible page counts: software-engineering.md: 14, ai-builder.md: 26.
