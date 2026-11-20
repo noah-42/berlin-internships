@@ -1085,6 +1085,32 @@
    "posted_source_timestamp": "2026-09-02T10:35:02.552000"
   },
   {
+   "role": "Werkstudent AI Enablement (m/w/d)",
+   "company": "Casavi",
+   "posted": "2026-08-31",
+   "language": "German required",
+   "pay": "Not stated",
+   "job_url": "https://casavi.jobs.personio.de/job/2774197",
+   "availability": "API listed",
+   "category": "AI Builder",
+   "checked_at": "2026-11-20T09:30:00+01:00",
+   "location": "Munich/Berlin/Frankfurt a.M./remote",
+   "eligibility": "",
+   "company_url": "https://www.casavi.de/",
+   "skills": "Enrolled in business, business informatics, process management, organizational development or a comparable program; AI enablement workshops and formats; very good German and English; 20 h/week",
+   "skills_checked_at": "2026-11-20T09:30:00+01:00",
+   "skills_source_url": "https://casavi.jobs.personio.de/job/2774197",
+   "jobscout_id": 4159519,
+   "api_reconciliation_status": "API mapped; description checked",
+   "company_id": 1841,
+   "field_source": "Jobscout API detail; legacy values retained in sources",
+   "icon": "assets/29-casavi.com.png",
+   "legacy_company_name": "Casavi",
+   "requirements_source": "Jobscout API description empty; employer page checked",
+   "api_active": true,
+   "posted_source_timestamp": "2026-08-31T10:08:09"
+  },
+  {
    "role": "Product Engineering Intern (m/w/d), Vertical AI Startup",
    "company": "MeisterPfad",
    "posted": "2026-08-28",
@@ -1263,11 +1289,11 @@
   ]
  },
  "publication_window": {
-  "cutoff": "2026-05-19",
+  "cutoff": "2026-05-20",
   "scope": "GitHub current listings only",
   "older_or_unknown_excluded": 16,
   "archive": "archive-all-records.json",
   "source_records_unchanged": true
  },
- "latest_addition_checked_at": "2026-11-19T09:30:00+01:00"
+ "latest_addition_checked_at": "2026-11-20T09:30:00+01:00"
 }
