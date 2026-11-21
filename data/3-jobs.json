@@ -1260,6 +1260,32 @@
    "requirements_source": "Jobscout API description; missing text flagged",
    "api_active": true,
    "posted_source_timestamp": "2026-07-05T21:04:44.260000"
+  },
+  {
+   "role": "Forward Deployed Engineer Intern",
+   "company": "DM Technologies",
+   "posted": "2026-05-28",
+   "language": "German required",
+   "pay": "Not stated",
+   "job_url": "https://platoapp.jobs.personio.de/job/2650619",
+   "availability": "API listed",
+   "category": "AI Builder",
+   "checked_at": "2026-11-21T09:15:00+01:00",
+   "location": "Berlin (on-site)",
+   "eligibility": "",
+   "company_url": "https://www.platoapp.com/",
+   "skills": "Technical background (Computer Science, Information Systems, or related); practical coding/development experience and first customer-facing roles; strong SQL and Python; fluent German, excellent communicator; AI-native mindset",
+   "skills_checked_at": "2026-11-21T09:15:00+01:00",
+   "skills_source_url": "https://platoapp.jobs.personio.de/job/2650619",
+   "jobscout_id": 4263076,
+   "api_reconciliation_status": "API mapped; description checked",
+   "company_id": 2195534,
+   "field_source": "Jobscout API detail; legacy values retained in sources",
+   "icon": "assets/30-platoapp.com.svg",
+   "legacy_company_name": "DM Technologies GmbH",
+   "requirements_source": "Jobscout API description empty; employer page checked",
+   "api_active": true,
+   "posted_source_timestamp": "2026-05-28T22:55:55"
   }
  ],
  "requirements_check_at": "2026-11-12T14:56:00+01:00",
@@ -1289,11 +1315,11 @@
   ]
  },
  "publication_window": {
-  "cutoff": "2026-05-20",
+  "cutoff": "2026-05-21",
   "scope": "GitHub current listings only",
   "older_or_unknown_excluded": 16,
   "archive": "archive-all-records.json",
   "source_records_unchanged": true
  },
- "latest_addition_checked_at": "2026-11-20T09:30:00+01:00"
+ "latest_addition_checked_at": "2026-11-21T09:15:00+01:00"
 }
