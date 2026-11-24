@@ -9,18 +9,18 @@ Public internship lists for Berlin and clearly marked nearby roles.
 | [Software Engineering](software-engineering.md) | 14 |
 | [AI Builder and related roles](ai-builder.md) | 28 |
 
-42 current-window listings; 49 retained in the full archive. API coverage expansion is in progress; this is not a complete Jobscout export. Andercore added Nov 14, 2026; Bettermile added Nov 15, 2026; AgentixLake (3 roles) and Pliant added Nov 16, 2026; Doctolib, Enpal and SAP added Nov 19, 2026; Casavi added Nov 20, 2026; DM Technologies added Nov 21, 2026; older rows have their own check dates.
+42 current-window listings; 49 retained in the full archive. API coverage expansion is in progress; this is not a complete Teleport export. Andercore added Nov 14, 2026; Bettermile added Nov 15, 2026; AgentixLake (3 roles) and Pliant added Nov 16, 2026; Doctolib, Enpal and SAP added Nov 19, 2026; Casavi added Nov 20, 2026; DM Technologies added Nov 21, 2026; older rows have their own check dates.
 
 ## Downloads
 
 [Combined CSV](data/2-jobs.csv) · [Combined JSON](data/3-jobs.json)
 
-Jobscout job details and facet evidence are the starting point for new additions. Employer checks are a separate validation step. API-listed and employer-rechecked are different states; missing data and source conflicts remain explicit. The older rows are being reconciled to API records without dropping them.
+Teleport job details and facet evidence are the starting point for new additions. Employer checks are a separate validation step. API-listed and employer-rechecked are different states; missing data and source conflicts remain explicit. The older rows are being reconciled to API records without dropping them.
 
-## Access Jobscout via API
+## Access Teleport via API
 
 
-For direct access to the wider Jobscout data, start at **[noah42.com/jobscout](https://www.noah42.com/jobscout/)**.
+For direct access to the wider Teleport data, start at **[noah42.com/jobscout](https://www.noah42.com/jobscout/)**.
 
 1. **Contact Noah for the password.**
 2. Follow the page's access instructions to unlock your token and connect your agent or coding tools.
